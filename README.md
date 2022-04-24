@@ -1,2 +1,2 @@
-# ejercicios3.ts
+# index.ts
 Created with CodeSandbox
